@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Movies Search</string>
+    <string name="nothing_found">ничего не найдено</string>
+    <string name="something_went_wrong">что-то пошло не так</string>
 </resources>
