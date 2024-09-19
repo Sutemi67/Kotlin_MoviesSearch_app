@@ -1,7 +1,8 @@
-package com.example.moviessearch
+package com.example.moviessearch.ui.movies
 
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
+import com.example.moviessearch.domain.models.Movie
 
 class MoviesAdapter(private val clickListener: MovieClickListener) : RecyclerView.Adapter<MovieViewHolder>() {
 
